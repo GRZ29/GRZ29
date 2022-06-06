@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Gerald
-![](https://i.postimg.cc/Z0zk1mWj/Azul-y-Blanco-Foto-Helv-tica-Moderna-Programa-de-Vacunaci-n-Salud-General-Banner.png)
+<!-- ![](https://i.postimg.cc/Z0zk1mWj/Azul-y-Blanco-Foto-Helv-tica-Moderna-Programa-de-Vacunaci-n-Salud-General-Banner.png) -->
 
 I am a person capable of working independently or in a team. Excellent verbal and written communication skills, organizational skills, multitasking ability in a high pressure environment, detail oriented with a strong initiative-taking work ethic and committed to professional excellence.
 
