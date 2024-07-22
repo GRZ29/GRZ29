@@ -12,3 +12,5 @@ Skills: I have experience in technologies such as: React, NodeJs, Axios, Git, Gi
 
 ### Projects (need to update this)
 - https://fm-hidalgo.com/
+- https://grz29.github.io/nasa-api-view/gallery?search=moon
+- https://nextjs-dashboard-5hxn.vercel.app/dashboard
